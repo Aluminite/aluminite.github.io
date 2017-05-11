@@ -1,0 +1,2 @@
+# Aluminite
+GitHub Pages root
